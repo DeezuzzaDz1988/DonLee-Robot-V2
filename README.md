@@ -28,7 +28,7 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 ↪️ 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 𝐒𝐓𝐀𝐓𝐔𝐒 ↩️
 </p>
 
-[![DONLEEROBOTV2](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=DonLee-Robot-V2)](https://github.com/PR0FESS0R-99/DonLee-Robot-V2)
+[![DONLEEROBOTV2](https://github-readme-stats.vercel.app/api/pin/?username=PR0FESS0R-99&repo=https://github.com/DeezuzzaDz1988/DonLee-Robot-V2)
 
 
 ----
@@ -86,8 +86,8 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 </p>
 
 <p align="center">
-<a href="https://youtu.be/NrbMc93aCzA"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
-</p>
+<a href="https://youtu.be/NrbMc93aCzA"><img src="
+</p>https://https://github.com/DeezuzzaDz1988/DonLee-Robot-V2
 
 ----
 
