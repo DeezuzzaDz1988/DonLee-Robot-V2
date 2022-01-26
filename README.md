@@ -86,7 +86,7 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 </p>
 
 <p align="center">
-<a href="https://youtu.be/NrbMc93aCzA"><img src="https://github.com/DeezuzzaDz1988/DonLee-Robot-V2
+<a href="https://youtu.be/NrbMc93aCzA"><img src="https://github.com/DeezuzzaDz1988/DonLee-Robot-V2)
 </p>https:/
 
 ----
